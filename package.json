@@ -1,0 +1,22 @@
+{
+  "name": "interview-questions",
+  "version": "1.0.0",
+  "description": "面试题",
+  "main": "index.js",
+  "scripts": {
+    "test": "promises-aplus-tests ./js/MyPromise"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willwan92/interview-questions.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willwan92/interview-questions/issues"
+  },
+  "homepage": "https://github.com/willwan92/interview-questions#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
